@@ -41,8 +41,8 @@ Things that probably need better names
 (All directions are aspirational.)
 
 🚀 Getting Started
--- git clone https://github.com/yourname/waspcake.git
--- cd waspcake
+``` git clone https://github.com/yourname/waspcake.git
+``` cd waspcake
 
 
 Then simply observe. Or don’t. Both are valid.

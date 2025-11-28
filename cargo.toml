@@ -1,0 +1,3 @@
+[[bin]]
+name = "waspcake"
+path = "slops/main.rs"

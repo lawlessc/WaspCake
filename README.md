@@ -26,7 +26,9 @@ Intentionally undefined
 
 Much like a wasp near a cake, its purpose is suggestive, not prescriptive.
 
-## ✨ Philosophy
+## ✨ Philosophy  
+
+[![Twirrling towards freedom](https://img.youtube.com/vi/qA73vORSnA4/0.jpg)](https://www.youtube.com/watch?v=qA73vORSnA4)
 
 Complex behavior can emerge from simple layers.
 Some layers sting. Some layers are sweet.

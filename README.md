@@ -7,7 +7,7 @@
 # 🐝🎂 WaspCake
 
 
-![Where autonomous buzz meets layered abstraction]((https://github.com/lawlessc/WaspCake/blob/main/buzzzz.png))
+![Where autonomous buzz meets layered abstraction](buzzzz.png)
 
 
 

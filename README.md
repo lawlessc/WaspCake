@@ -23,6 +23,8 @@ At its core, WaspCake is:
 + Deeply extensible
 
 + Intentionally obtuse
+  
++ Powered by AI 
 
 Much like a wasp near a cake, its purpose is suggestive, not prescriptive.
 

@@ -1,4 +1,16 @@
+
+
+
+
+
+
 # 🐝🎂 WaspCake
+
+
+![Where autonomous buzz meets layered abstraction]([ChatGPT Image Nov 27, 2025, 10_41_35 PM.png](https://raw.githubusercontent.com/lawlessc/WaspCake/refs/heads/main/ChatGPT%20Image%20Nov%2027%2C%202025%2C%2010_41_35%20PM.png))
+
+
+
 
 Where autonomous buzz meets layered abstraction.
 

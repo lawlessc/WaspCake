@@ -50,7 +50,7 @@ Nothing here is final — everything here is potential.
 
 + Symbolic automation
 
-+ Bloodbank backed rypto currency
++ Bloodbank backed crypto currency
 
 + Functional
 

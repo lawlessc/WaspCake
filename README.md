@@ -1,4 +1,4 @@
-🐝🎂 WaspCake
+# 🐝🎂 WaspCake
 
 Where autonomous buzz meets layered abstraction.
 
@@ -14,19 +14,19 @@ Intentionally undefined
 
 Much like a wasp near a cake, its purpose is suggestive, not prescriptive.
 
-✨ Philosophy
+## ✨ Philosophy
 
 Complex behavior can emerge from simple layers.
 Some layers sting. Some layers are sweet.
 All layers are cake.
 
-🧠 Current Status
+## 🧠 Current Status
 
 Early-stage. Pre-alpha. Conceptually unstable.
 Interfaces may shift. Meanings may dissolve.
 Nothing here is final — everything here is potential.
 
-🧩 Possible Directions
+## 🧩 Possible Directions
 
 Agent-oriented abstractions
 
@@ -40,7 +40,7 @@ Things that probably need better names
 
 (All directions are aspirational.)
 
-🚀 Getting Started:
+## 🚀 Getting Started:
 
 ` git clone https://github.com/yourname/waspcake.git `
 
@@ -50,6 +50,6 @@ Things that probably need better names
 
 Then simply observe. Or don’t. Both are valid.
 
-🤝 Contributing
+## 🤝 Contributing
 
 PRs, issues, ideas, musings, and speculative architectures are welcome. If you feel the buzz, you’re already contributing.

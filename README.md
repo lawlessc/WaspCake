@@ -65,3 +65,4 @@ Then simply observe. Or don’t. Both are valid.
 ## 🤝 Contributing
 
 PRs, issues, ideas, musings, and speculative architectures are welcome. If you feel the buzz, you’re already contributing.
+Only accepting PRs createad via LLMs ,for the moment.

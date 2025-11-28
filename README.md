@@ -18,11 +18,11 @@ WaspCake is an experimental, forward-drifting code construct exploring the delic
 
 At its core, WaspCake is:
 
-Lightly structured
++ Lightly unstructured
 
-Deeply extensible
++ Deeply extensible
 
-Intentionally undefined
++ Intentionally obtuse
 
 Much like a wasp near a cake, its purpose is suggestive, not prescriptive.
 
@@ -42,15 +42,19 @@ Nothing here is final — everything here is potential.
 
 ## 🧩 Possible Directions
 
-Agent-oriented abstractions
++ Agent-oriented abstractions
 
-Adaptive pipelines
++ Adaptive pipelines
 
-Emergent orchestration
++ Emergent orchestration
 
-Symbolic automation
++ Symbolic automation
 
-Things that probably need better names
++ Bloodbank backed rypto currency
+
++ Functional
+
++ Disruptive
 
 (All directions are aspirational.)
 

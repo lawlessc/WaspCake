@@ -54,7 +54,7 @@ Things that probably need better names
 
 ## 🚀 Getting Started:
 
-` git clone https://github.com/yourname/waspcake.git `
+` git clone https://github.com/lawlessc/waspcake.git `
 
 ` cd waspcake `
 

@@ -28,7 +28,7 @@ At its core, WaspCake is:
 
 Much like a wasp near a cake, its purpose is suggestive, not prescriptive.
 
-Note: In case this wasn't obvious ,this is isn't a serious project, more to try out AI tools see how far something can go on vibes.
+Note: In case this wasn't obvious ,this isn't a serious project, it's just to try out "vibe coding" and see what happens.
 
 ## ✨ Philosophy  
 

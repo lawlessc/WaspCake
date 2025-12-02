@@ -28,6 +28,8 @@ At its core, WaspCake is:
 
 Much like a wasp near a cake, its purpose is suggestive, not prescriptive.
 
+Note: In case this wasn't obvious ,this is isn't a serious project, more to try out AI tools see how far something can go on vibes.
+
 ## ✨ Philosophy  
 
 [![Twirrling towards freedom](https://img.youtube.com/vi/qA73vORSnA4/0.jpg)](https://www.youtube.com/watch?v=qA73vORSnA4)
